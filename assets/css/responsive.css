@@ -1,0 +1,550 @@
+@media (min-width: 1450px) and (max-width: 1600px) {
+    .footer-right {
+        gap: 0 20px;
+        padding-left: 70px;
+    }
+
+    .contact-info p {
+        font-size: 17px;
+    }
+
+    .card-btn a {
+        font-size: 20px;
+    }
+
+    .program-card h2 {
+        font-size: 24px;
+    }
+
+    .program-card p {
+        line-height: 18px;
+    }
+
+    .program-card {
+        padding: 25px 20px;
+    }
+
+    .testimonial-slider-wrapper {
+        padding: 50px 50px;
+    }
+
+
+}
+
+
+
+
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1449px) {
+    .hero-slider-wrapper .owl-prev {
+        left: 50px;
+    }
+
+    .hero-slider-wrapper .owl-next {
+        right: 50px;
+    }
+
+    .logo img {
+        width: 200px;
+    }
+
+    .mainmenu-wrap li a {
+        font-size: 18px;
+    }
+
+    .program-card {
+        padding: 25px 20px;
+    }
+
+    .program-card h2 {
+        font-size: 24px;
+    }
+
+    .card-btn a {
+        font-size: 20px;
+    }
+
+    .testimonial-slider-wrapper {
+        padding: 25px 35px;
+    }
+
+    .testimonial-card-inner {
+        padding: 25px;
+        padding-top: 0;
+    }
+
+    .testimonial-content p {
+        font-size: 16px;
+    }
+
+    .card-user img {
+        width: 90px !important;
+        height: 90px !important;
+    }
+
+    .social-links ul li {
+        margin-left: 35px;
+    }
+
+    .contact-info p {
+        font-size: 16px;
+    }
+
+    .contact-info h4 {
+        font-size: 16px;
+    }
+
+    .social-links ul li a {
+        font-size: 20px;
+    }
+
+    .contact-info {
+        gap: 0 25px;
+    }
+
+    .digital-box img {
+        width: 90px;
+    }
+
+    .footer-right {
+        gap: 0 25px;
+        padding-left: 40px;
+    }
+
+    footer {
+        padding: 20px 0;
+        border-top: 7px solid #FF6B01;
+    }
+
+    .program-card p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+
+
+
+
+
+
+}
+
+
+
+
+@media (min-width: 1200px) and (max-width: 1300px) {
+    .social-links ul li {
+        margin-left: 30px;
+    }
+
+    .footer-right {
+        gap: 0 20px;
+        padding-left: 15px;
+    }
+
+    .digital-box {
+        gap: 0 10px;
+    }
+
+    .contact-info p {
+        font-size: 15px;
+    }
+
+    .card-btn a {
+        font-size: 16px;
+    }
+
+    .program-card {
+        padding: 20px 15px;
+    }
+
+    .program-card p {
+        font-size: 13px;
+        line-height: 18px;
+    }
+
+}
+
+
+
+
+
+
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .footer-right {
+        gap: 0 40px;
+        padding-left: 0;
+        margin-top: 25px;
+    }
+
+    .contact-info p {
+        font-size: 16px;
+    }
+
+    .digital-box img {
+        width: 90px;
+    }
+
+    .social-links ul li a {
+        font-size: 20px;
+    }
+
+    .social-links ul li {
+        margin-left: 30px;
+    }
+
+    .contact-info h4 {
+        font-size: 16px;
+    }
+
+    .testimonial-slider-wrapper {
+        padding: 30px 25px;
+    }
+
+    .testimonial-card-inner {
+        padding: 15px;
+        padding-top: 0;
+        padding-bottom: 5px;
+    }
+
+    .testimonial-content p {
+        font-size: 16px;
+    }
+
+    .card-user img {
+        width: 80px !important;
+        height: 80px !important;
+        border: 4px solid #fff;
+        margin-bottom: 20px;
+    }
+
+    .card-user p {
+        font-size: 16px;
+    }
+
+    .card-user {
+        top: -35px;
+    }
+
+    .owl-nav button img {
+        width: 14px !important;
+    }
+
+    footer {
+        padding: 15px 0;
+        border-top: 6px solid #FF6B01;
+    }
+
+    .testimonial-card {
+        padding-top: 60px;
+        padding-bottom: 30px;
+    }
+
+    .program-card {
+        padding: 30px 20px;
+        max-width: 440px;
+        margin: 0 auto;
+        margin-bottom: 50px;
+    }
+
+    .program-card p {
+        font-size: 15px;
+        line-height: 23px;
+    }
+
+    .card-btn a {
+        font-size: 20px;
+    }
+
+    .program-card h2 {
+        font-size: 27px;
+    }
+
+    .hero-slider-wrapper .owl-prev {
+        left: 30px;
+    }
+
+    .hero-slider-wrapper .owl-next {
+        right: 30px;
+    }
+
+    .logo img {
+        width: 150px;
+    }
+
+    .mainmenu-wrap li a {
+        font-size: 16px;
+    }
+
+    .mainmenu-wrap ul li i {
+        top: -1px;
+    }
+
+    .testimonial-content p {
+        font-size: 15px;
+        line-height: 21px;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/* LG Device :992px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .footer-right {
+        gap: 0 40px;
+        padding-left: 0;
+        margin-top: 25px;
+    }
+
+    .contact-info p {
+        font-size: 16px;
+    }
+
+    .digital-box img {
+        width: 90px;
+    }
+
+    .social-links ul li a {
+        font-size: 20px;
+    }
+
+    .social-links ul li {
+        margin-left: 30px;
+    }
+
+    .contact-info h4 {
+        font-size: 16px;
+    }
+
+    .testimonial-slider-wrapper {
+        padding: 30px 25px;
+    }
+
+    .testimonial-card-inner {
+        padding: 15px;
+        padding-top: 0;
+        padding-bottom: 5px;
+    }
+
+    .testimonial-content p {
+        font-size: 16px;
+    }
+
+    .card-user img {
+        width: 80px !important;
+        height: 80px !important;
+        border: 4px solid #fff;
+        margin-bottom: 20px;
+    }
+
+    .card-user p {
+        font-size: 16px;
+    }
+
+    .card-user {
+        top: -35px;
+    }
+
+    .owl-nav button img {
+        width: 14px !important;
+    }
+
+    footer {
+        padding: 15px 0;
+        border-top: 6px solid #FF6B01;
+    }
+
+    .testimonial-card {
+        padding-top: 60px;
+        padding-bottom: 30px;
+    }
+
+    .program-card {
+        padding: 25px 15px;
+        max-width: 440px;
+        margin: 0 auto;
+        margin-bottom: 50px;
+    }
+
+    .program-card p {
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    .card-btn a {
+        font-size: 18px;
+    }
+
+    .program-card h2 {
+        font-size: 24px;
+    }
+
+    .hero-slider-wrapper .owl-prev {
+        left: 30px;
+    }
+
+    .hero-slider-wrapper .owl-next {
+        right: 30px;
+    }
+
+    .logo img {
+        width: 150px;
+    }
+
+    .mainmenu-wrap li a {
+        font-size: 16px;
+    }
+
+    .mainmenu-wrap ul li i {
+        top: -1px;
+    }
+
+    .testimonial-content p {
+        font-size: 15px;
+        line-height: 21px;
+    }
+
+    .owl-dots button {
+        width: 12px;
+        height: 12px;
+    }
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* SM Small Device :320px. */
+@media only screen and (max-width: 767px) {
+    .owl-nav {
+        display: none;
+    }
+
+    .testimonial-slider-wrapper {
+        padding: 0;
+    }
+    .logo img {
+        width: 120px;
+    }
+    .owl-dots button {
+        width: 10px;
+        height: 10px;
+        border: 1px solid #0F1E25 !important;
+        margin: 0px 5px;
+    }
+    .footer-logo img {
+        width: 120px;
+    }
+    .social-links ul li a {
+        font-size: 18px;
+    }
+    .social-links ul li {
+        margin-left: 20px;
+    }
+    .footer-right {
+        display: block;
+        padding-left: 0;
+    }
+    .contact-info p {
+        font-size: 16px;
+    }
+    .digital-box img {
+        width: 80px;
+    }
+    .digital-box {
+        justify-content: center;
+    }
+
+    .contact-info {
+        display: block;
+        margin-bottom: 25px;
+        margin-top: 30px;
+        text-align: center;
+    }
+
+    .contact-info a {
+        margin-top: 15px;
+    }
+    footer {
+        padding: 30px 0;
+        border-top: 4px solid #FF6B01;
+    }
+
+    .program-card {
+        padding: 30px 20px;
+        margin-bottom: 35px;
+    }
+    .program-card h2 {
+        font-size: 25px;
+    }
+    .card-btn a {
+        font-size: 20px;
+    }
+    .area-title h2 {
+        font-size: 25px
+    }
+    .testimonial-card {
+        padding-top: 55px;
+        padding-bottom: 0;
+    }
+    .mean-container a.meanmenu-reveal {
+        width: 26px;
+        height: 26px;
+        margin-top: -41px;
+    }
+    .mean-container .mean-nav ul li a {
+        width: 90%;
+        padding: 12px 5%;
+    }
+    nav.mean-nav i {
+        display: none;
+    }
+    .mean-container a.meanmenu-reveal span {
+        display: block;
+        height: 2px;
+        margin-top: 5px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {}
